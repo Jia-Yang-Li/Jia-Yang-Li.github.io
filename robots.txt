@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Jia-Yang-Li.github.io/al-folio/sitemap.xml
